@@ -1,36 +1,49 @@
+body{
+	background-color: #F29F05;
+}
+
+
 h1{
 	text-align: center;
-	font-size: 75px;
-	color: #12A2B3;
+	font-size: 200px;
+	color: #A3D3D9;
+	margin-bottom: -6px;
 }
 
 hr{
-	width: 700px;
-	border-top:2px dashed black;
+	width: 900px;
 }
 
 #slogan{
 	font-style: italic;
 	text-align: center;
 	font-size: 30px;
-	color: #12A2B3;
+	color: #A3D3D9;
+	margin-top: -6px;
 }
 
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 70%;
 }
 
 ul{
 	text-decoration:underline;
+	color: white;
 }
 
 a{
 	text-decoration: none;
 	color: black;
 	font-weight:750;
+	color: white;
 }
 
+p, ul, li{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
 
