@@ -1,52 +1,44 @@
-@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Lora&display=swap');
-
-*{
-	padding: 0;
-	margin: 0;
+#wrapper{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 
-/*body{
-	background-color: #F29F05;
+header{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
 }
 
-h1{
-	text-align: center;
-	font-size: 100px;
-	color: #A3D3D9;
-	font-family: 'Chelsea Market', cursive;
+nav{
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
 }
 
-h2, h3{
-	font-family: 'Chelsea Market', cursive;
+#hero{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
 }
 
-hr{
-	width: 700px;
-	margin-bottom: 10px;
-	margin-top: -50px;
+main{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
 }
 
-#slogan{
-	font-family: 'Chelsea Market', cursive;
-	text-align: center;
-	font-size: 25px;
-	color: #A3D3D9;
+aside{
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70%;
+
+footer{
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
 
-p{
-	font-family: 'Lora', serif;
-}
-
-ul, li{
-	font-family: 'Lora', serif;
-}
-
-*/
