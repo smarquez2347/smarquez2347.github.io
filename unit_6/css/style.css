@@ -5,8 +5,28 @@ img{
   	height: 300px;
   }
 
+ nav{
+ 	font-size: 1.8em;
+ 	float: right;
+ }
+
+ nav a{
+ 	text-decoration: none;
+ 	color: white;
+ 	margin: 1.8em;
+ 	display: inline-block;
+ }
+
+ nav a:hover{
+ 	background-color: orange;
+ }
+
 body{
 	background-color: yellow;
+}
+
+h1, h2, h3{
+	font-family: 'Staatliches' , sans-serif;
 }
 
 header{
@@ -34,8 +54,19 @@ header{
 
 .options{
 	border: 10px blue solid;
+	height:200px;
+}
+
+#kit{
+	border: 10px green solid;
 	height:700px;
 }
+
+#oven{
+	border: 10px pink solid;
+	height:700px;
+}
+
 
 .lifestyle{
 	border: 10px orange solid;
@@ -53,4 +84,5 @@ header{
 .featured{
 	border: 10px green solid;
 }
+
 
