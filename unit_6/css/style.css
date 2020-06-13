@@ -57,14 +57,37 @@ header{
 	height:200px;
 }
 
+
+#two_column{
+	background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
 #kit{
-	border: 10px green solid;
-	height:700px;
+	background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float:left;
+    width: 46%;
 }
 
 #oven{
-	border: 10px pink solid;
-	height:700px;
+	background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float:right;
+    width: 46%;
 }
 
 
