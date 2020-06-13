@@ -1,44 +1,56 @@
-#wrapper{
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-}
+  * { margin:0; padding:0; box-sizing:border-box; }
 
+img{
+  	width: auto;
+  	height: 300px;
+  }
+
+body{
+	background-color: yellow;
+}
 
 header{
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
+	border: 10px green solid;
+	height: 150px;
 }
 
-nav{
-	background-color: #E8C66A;
-	border: 1px black solid;
-	padding: 20px;
+.hero{
+	border: 10px black solid;
+	height: 600px;
+	width: auto;
 }
 
-#hero{
-	background-color: #FFE2B8;
-	border: 1px black solid;
+.steps{
+	border: 10px pink solid;
 	padding: 20px;
-}
-
-main{
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-aside{
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding: 20px;
+	height: 300px;
 }
 
 
-footer{
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
+.why{
+	border: 10px red solid;
+	height: 300px;
+}
+
+.options{
+	border: 10px blue solid;
+	height:700px;
+}
+
+.lifestyle{
+	border: 10px orange solid;
+	height: 200px;
+}
+
+.fact{
+	border: 10px purple solid;
+}
+
+.quote{
+	border: 10px yellow solid;
+}
+
+.featured{
+	border: 10px green solid;
 }
 
